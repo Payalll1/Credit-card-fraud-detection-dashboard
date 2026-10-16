@@ -101,7 +101,7 @@ IF(OR('powerbi_train'[hour] >= 22, 'powerbi_train'[hour] <= 3), 1, 0)
 
 - `README.md`
 - `page1_executive_overview.png` and `page2_alert_system.png`: screenshots of the dashboard
-[Download the Power BI file (https://drive.google.com/file/d/1nUfR1eiCikIAuldd3ZW6tUmkdpysvdnl/view?usp=drive_link)]
+[Download the Power BI file (https://drive.google.com/file/d/1bZ9GVl9D_Hlg823bcEqJfyeAluxkGa1d/view?usp=drive_link)]
 
 ## Author
 
